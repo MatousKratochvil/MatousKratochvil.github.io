@@ -1,0 +1,1 @@
+console.log("Testing GitHubPages js executions")
